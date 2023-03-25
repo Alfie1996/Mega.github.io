@@ -1,1 +1,1 @@
-# Mega.github.io
+# VIP 리스트
