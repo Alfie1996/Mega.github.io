@@ -1,10 +1,10 @@
-{'city': 'Seoul', 'temperature': 18.19, 'pressure': 1015, 'humidity': 82, 'description': 'clear sky'}
-{'city': 'Washington D.C.', 'temperature': 21.09, 'pressure': 1006, 'humidity': 61, 'description': 'light rain'}
-{'city': 'London', 'temperature': 26.69, 'pressure': 1017, 'humidity': 33, 'description': 'few clouds'}
-{'city': 'Berlin', 'temperature': 19.17, 'pressure': 1012, 'humidity': 70, 'description': 'broken clouds'}
-{'city': 'Tokyo', 'temperature': 22.07, 'pressure': 1011, 'humidity': 55, 'description': 'few clouds'}
-{'city': 'Paris', 'temperature': 29.19, 'pressure': 1016, 'humidity': 25, 'description': 'clear sky'}
-{'city': 'New Delhi', 'temperature': 32.09, 'pressure': 1002, 'humidity': 62, 'description': 'haze'}
-{'city': 'Sao Paulo', 'temperature': 15.52, 'pressure': 1021, 'humidity': 86, 'description': 'scattered clouds'}
-{'city': 'Moscow', 'temperature': 26.02, 'pressure': 1012, 'humidity': 37, 'description': 'scattered clouds'}
-{'city': 'Beijing', 'temperature': 32.72, 'pressure': 1007, 'humidity': 23, 'description': 'clear sky'}
+{'city': 'Seoul', 'temperature': 18.3, 'pressure': 1015, 'humidity': 75, 'description': 'clear sky'}
+{'city': 'Washington D.C.', 'temperature': 22.17, 'pressure': 1002, 'humidity': 71, 'description': 'scattered clouds'}
+{'city': 'London', 'temperature': 26.4, 'pressure': 1017, 'humidity': 34, 'description': 'scattered clouds'}
+{'city': 'Berlin', 'temperature': 19.2, 'pressure': 1003, 'humidity': 66, 'description': 'light rain'}
+{'city': 'Tokyo', 'temperature': 21.94, 'pressure': 1011, 'humidity': 57, 'description': 'few clouds'}
+{'city': 'Paris', 'temperature': 28.56, 'pressure': 1016, 'humidity': 31, 'description': 'clear sky'}
+{'city': 'New Delhi', 'temperature': 31.09, 'pressure': 1002, 'humidity': 66, 'description': 'haze'}
+{'city': 'Sao Paulo', 'temperature': 16.81, 'pressure': 1023, 'humidity': 80, 'description': 'broken clouds'}
+{'city': 'Moscow', 'temperature': 25.87, 'pressure': 1012, 'humidity': 43, 'description': 'scattered clouds'}
+{'city': 'Beijing', 'temperature': 28.83, 'pressure': 1007, 'humidity': 24, 'description': 'clear sky'}
