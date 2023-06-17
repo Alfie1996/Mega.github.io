@@ -1,4 +1,4 @@
-{'city': 'Seoul', 'temperature': 26.19, 'pressure': 1012, 'humidity': 48, 'description': 'clear sky'}
+{'city': 'Seoul', 'temperature': 26.06, 'pressure': 1012, 'humidity': 48, 'description': 'moderate rain'}
 {'city': 'Washington D.C.', 'temperature': 16.27, 'pressure': 1005, 'humidity': 82, 'description': 'clear sky'}
 {'city': 'London', 'temperature': 21.14, 'pressure': 1014, 'humidity': 58, 'description': 'overcast clouds'}
 {'city': 'Berlin', 'temperature': 19.45, 'pressure': 1003, 'humidity': 76, 'description': 'broken clouds'}
