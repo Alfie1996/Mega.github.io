@@ -1,10 +1,10 @@
-{'city': 'Seoul', 'description': u'clear sky', 'humidity': 60, 'temperature': 24.31, 'pressure': 1006}
-{'city': 'Washington D.C.', 'description': u'clear sky', 'humidity': 75, 'temperature': 16.68, 'pressure': 1010}
-{'city': 'London', 'description': u'overcast clouds', 'humidity': 61, 'temperature': 25.78, 'pressure': 1004}
-{'city': 'Berlin', 'description': u'few clouds', 'humidity': 48, 'temperature': 25.86, 'pressure': 1004}
-{'city': 'Tokyo', 'description': u'broken clouds', 'humidity': 74, 'temperature': 25.47, 'pressure': 1002}
-{'city': 'Paris', 'description': u'light rain', 'humidity': 60, 'temperature': 25.9, 'pressure': 1010}
-{'city': 'New Delhi', 'description': u'haze', 'humidity': 58, 'temperature': 33.09, 'pressure': 1000}
-{'city': 'Sao Paulo', 'description': u'broken clouds', 'humidity': 87, 'temperature': 12.58, 'pressure': 1025}
-{'city': 'Moscow', 'description': u'few clouds', 'humidity': 28, 'temperature': 23.74, 'pressure': 1017}
+{'city': 'Seoul', 'description': u'clear sky', 'humidity': 57, 'temperature': 25.6, 'pressure': 1006}
+{'city': 'Washington D.C.', 'description': u'few clouds', 'humidity': 68, 'temperature': 18.36, 'pressure': 1012}
+{'city': 'London', 'description': u'scattered clouds', 'humidity': 60, 'temperature': 26.16, 'pressure': 1007}
+{'city': 'Berlin', 'description': u'clear sky', 'humidity': 47, 'temperature': 25.33, 'pressure': 1003}
+{'city': 'Tokyo', 'description': u'broken clouds', 'humidity': 74, 'temperature': 25.33, 'pressure': 1002}
+{'city': 'Paris', 'description': u'clear sky', 'humidity': 60, 'temperature': 25.9, 'pressure': 1010}
+{'city': 'New Delhi', 'description': u'haze', 'humidity': 62, 'temperature': 32.09, 'pressure': 1000}
+{'city': 'Sao Paulo', 'description': u'broken clouds', 'humidity': 89, 'temperature': 12.87, 'pressure': 1025}
+{'city': 'Moscow', 'description': u'scattered clouds', 'humidity': 28, 'temperature': 23.74, 'pressure': 1016}
 {'city': 'Beijing', 'description': u'broken clouds', 'humidity': 18, 'temperature': 31.94, 'pressure': 1002}
