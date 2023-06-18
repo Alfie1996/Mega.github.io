@@ -1,10 +1,10 @@
-{'city': 'Seoul', 'description': u'clear sky', 'humidity': 57, 'temperature': 25.47, 'pressure': 1006}
-{'city': 'Washington D.C.', 'description': u'clear sky', 'humidity': 65, 'temperature': 19.22, 'pressure': 1011}
-{'city': 'London', 'description': u'broken clouds', 'humidity': 59, 'temperature': 26.23, 'pressure': 1007}
-{'city': 'Berlin', 'description': u'clear sky', 'humidity': 47, 'temperature': 26.08, 'pressure': 1004}
-{'city': 'Tokyo', 'description': u'broken clouds', 'humidity': 76, 'temperature': 25.11, 'pressure': 1002}
-{'city': 'Paris', 'description': u'clear sky', 'humidity': 58, 'temperature': 26.52, 'pressure': 1010}
-{'city': 'New Delhi', 'description': u'haze', 'humidity': 62, 'temperature': 32.09, 'pressure': 1000}
-{'city': 'Sao Paulo', 'description': u'broken clouds', 'humidity': 81, 'temperature': 14.46, 'pressure': 1027}
-{'city': 'Moscow', 'description': u'scattered clouds', 'humidity': 28, 'temperature': 23.92, 'pressure': 1016}
+{'city': 'Seoul', 'description': u'clear sky', 'humidity': 60, 'temperature': 22.86, 'pressure': 1007}
+{'city': 'Washington D.C.', 'description': u'haze', 'humidity': 63, 'temperature': 19.81, 'pressure': 1011}
+{'city': 'London', 'description': u'broken clouds', 'humidity': 58, 'temperature': 26.11, 'pressure': 1007}
+{'city': 'Berlin', 'description': u'clear sky', 'humidity': 45, 'temperature': 26.39, 'pressure': 1003}
+{'city': 'Tokyo', 'description': u'broken clouds', 'humidity': 77, 'temperature': 25.1, 'pressure': 1002}
+{'city': 'Paris', 'description': u'clear sky', 'humidity': 55, 'temperature': 27.81, 'pressure': 1010}
+{'city': 'New Delhi', 'description': u'haze', 'humidity': 55, 'temperature': 33.09, 'pressure': 999}
+{'city': 'Sao Paulo', 'description': u'broken clouds', 'humidity': 79, 'temperature': 14.05, 'pressure': 1026}
+{'city': 'Moscow', 'description': u'scattered clouds', 'humidity': 28, 'temperature': 23.91, 'pressure': 1016}
 {'city': 'Beijing', 'description': u'overcast clouds', 'humidity': 24, 'temperature': 30.94, 'pressure': 1003}
