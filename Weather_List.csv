@@ -1,10 +1,10 @@
-{'city': 'Seoul', 'description': u'clear sky', 'humidity': 43, 'temperature': 32.89, 'pressure': 1005}
-{'city': 'Washington D.C.', 'description': u'clear sky', 'humidity': 72, 'temperature': 17.5, 'pressure': 1011}
-{'city': 'London', 'description': u'scattered clouds', 'humidity': 92, 'temperature': 15.88, 'pressure': 1010}
-{'city': 'Berlin', 'description': u'clear sky', 'humidity': 74, 'temperature': 18.99, 'pressure': 1002}
-{'city': 'Tokyo', 'description': u'scattered clouds', 'humidity': 56, 'temperature': 27.22, 'pressure': 1002}
-{'city': 'Paris', 'description': u'fog', 'humidity': 96, 'temperature': 16.87, 'pressure': 1012}
+{'city': 'Seoul', 'description': u'clear sky', 'humidity': 40, 'temperature': 33.74, 'pressure': 1005}
+{'city': 'Washington D.C.', 'description': u'clear sky', 'humidity': 73, 'temperature': 17.5, 'pressure': 1011}
+{'city': 'London', 'description': u'scattered clouds', 'humidity': 92, 'temperature': 15.98, 'pressure': 1010}
+{'city': 'Berlin', 'description': u'clear sky', 'humidity': 74, 'temperature': 19.19, 'pressure': 1003}
+{'city': 'Tokyo', 'description': u'few clouds', 'humidity': 58, 'temperature': 26.63, 'pressure': 1002}
+{'city': 'Paris', 'description': u'mist', 'humidity': 96, 'temperature': 17.16, 'pressure': 1013}
 {'city': 'New Delhi', 'description': u'mist', 'humidity': 89, 'temperature': 28.09, 'pressure': 1001}
-{'city': 'Sao Paulo', 'description': u'broken clouds', 'humidity': 93, 'temperature': 13.09, 'pressure': 1027}
-{'city': 'Moscow', 'description': u'clear sky', 'humidity': 37, 'temperature': 17.66, 'pressure': 1018}
-{'city': 'Beijing', 'description': u'light rain', 'humidity': 66, 'temperature': 19.94, 'pressure': 1004}
+{'city': 'Sao Paulo', 'description': u'broken clouds', 'humidity': 93, 'temperature': 13.04, 'pressure': 1027}
+{'city': 'Moscow', 'description': u'clear sky', 'humidity': 37, 'temperature': 17.65, 'pressure': 1018}
+{'city': 'Beijing', 'description': u'light rain', 'humidity': 66, 'temperature': 20.94, 'pressure': 1004}
