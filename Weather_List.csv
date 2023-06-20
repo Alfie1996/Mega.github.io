@@ -1,11 +1,11 @@
 {'city': 'Seoul', 'description': u'clear sky', 'humidity': 61, 'temperature': 24.75, 'pressure': 1003}
-{'city': 'Washington D.C.', 'description': u'overcast clouds', 'humidity': 86, 'temperature': 21.28, 'pressure': 1016}
-{'city': 'London', 'description': u'broken clouds', 'humidity': 86, 'temperature': 20.88, 'pressure': 1004}
-{'city': 'Berlin', 'description': u'thunderstorm with rain', 'humidity': 71, 'temperature': 24.97, 'pressure': 969}
-{'city': 'Tokyo', 'description': u'scattered clouds', 'humidity': 62, 'temperature': 23.38, 'pressure': 1011}
-{'city': 'Paris', 'description': u'light rain', 'humidity': 75, 'temperature': 23.92, 'pressure': 1010}
-{'city': 'New Delhi', 'description': u'haze', 'humidity': 46, 'temperature': 36.09, 'pressure': 1000}
-{'city': 'Sao Paulo', 'description': u'broken clouds', 'humidity': 87, 'temperature': 13.15, 'pressure': 1027}
-{'city': 'Moscow', 'description': u'scattered clouds', 'humidity': 37, 'temperature': 23.05, 'pressure': 1012}
+{'city': 'Washington D.C.', 'description': u'overcast clouds', 'humidity': 86, 'temperature': 21.35, 'pressure': 1016}
+{'city': 'London', 'description': u'broken clouds', 'humidity': 85, 'temperature': 21.19, 'pressure': 1005}
+{'city': 'Berlin', 'description': u'shower rain', 'humidity': 88, 'temperature': 20.01, 'pressure': 1015}
+{'city': 'Tokyo', 'description': u'scattered clouds', 'humidity': 63, 'temperature': 23.4, 'pressure': 1011}
+{'city': 'Paris', 'description': u'broken clouds', 'humidity': 69, 'temperature': 24.85, 'pressure': 1010}
+{'city': 'New Delhi', 'description': u'haze', 'humidity': 46, 'temperature': 36.09, 'pressure': 999}
+{'city': 'Sao Paulo', 'description': u'broken clouds', 'humidity': 87, 'temperature': 13.3, 'pressure': 1027}
+{'city': 'Moscow', 'description': u'scattered clouds', 'humidity': 37, 'temperature': 23.16, 'pressure': 1012}
 {'city': 'Beijing', 'description': u'scattered clouds', 'humidity': 13, 'temperature': 33.94, 'pressure': 999}
-{'city': 'Sydney', 'description': u'few clouds', 'humidity': 63, 'temperature': 8.92, 'pressure': 1023}
+{'city': 'Sydney', 'description': u'few clouds', 'humidity': 64, 'temperature': 7.92, 'pressure': 1023}
