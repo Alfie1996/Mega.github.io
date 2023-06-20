@@ -1,5 +1,5 @@
-{'city': 'Seoul', 'description': u'moderate rain', 'humidity': 94, 'temperature': 19.89, 'pressure': 1004}
-{'city': 'Washington, D.C.', 'description': u'overcast clouds', 'humidity': 59, 'temperature': 10.6, 'pressure': 1018}
-{'city': 'Canberra', 'description': u'scattered clouds', 'humidity': 94, 'temperature': -2.34, 'pressure': 1026}
-{'city': 'Vienna', 'description': u'clear sky', 'humidity': 47, 'temperature': 31.38, 'pressure': 1015}
+{'city': 'Seoul', 'description': u'heavy intensity rain', 'humidity': 94, 'temperature': 19.89, 'pressure': 1004}
+{'city': 'Washington, D.C.', 'description': u'light rain', 'humidity': 59, 'temperature': 10.79, 'pressure': 1018}
+{'city': 'Canberra', 'description': u'scattered clouds', 'humidity': 94, 'temperature': -2.07, 'pressure': 1026}
+{'city': 'Vienna', 'description': u'clear sky', 'humidity': 47, 'temperature': 31.22, 'pressure': 1015}
 {'city': 'Brussels', 'description': u'few clouds', 'humidity': 60, 'temperature': 26.2, 'pressure': 1009}
