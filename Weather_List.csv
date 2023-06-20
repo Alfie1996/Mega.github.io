@@ -1,11 +1,11 @@
-{'city': 'Seoul', 'description': u'moderate rain', 'humidity': 78, 'temperature': 21.84, 'pressure': 1004}
+{'city': 'Seoul', 'description': u'light rain', 'humidity': 81, 'temperature': 21.25, 'pressure': 1004}
 {'city': 'Washington D.C.', 'description': u'overcast clouds', 'humidity': 77, 'temperature': 23.66, 'pressure': 1018}
-{'city': 'London', 'description': u'scattered clouds', 'humidity': 70, 'temperature': 22.12, 'pressure': 1006}
-{'city': 'Berlin', 'description': u'few clouds', 'humidity': 77, 'temperature': 24.49, 'pressure': 1013}
-{'city': 'Tokyo', 'description': u'few clouds', 'humidity': 75, 'temperature': 21.84, 'pressure': 1012}
-{'city': 'Paris', 'description': u'scattered clouds', 'humidity': 61, 'temperature': 26.41, 'pressure': 1010}
-{'city': 'New Delhi', 'description': u'haze', 'humidity': 46, 'temperature': 35.09, 'pressure': 999}
+{'city': 'London', 'description': u'scattered clouds', 'humidity': 70, 'temperature': 22.04, 'pressure': 1006}
+{'city': 'Berlin', 'description': u'overcast clouds', 'humidity': 75, 'temperature': 25.14, 'pressure': 995}
+{'city': 'Tokyo', 'description': u'few clouds', 'humidity': 75, 'temperature': 21.74, 'pressure': 1012}
+{'city': 'Paris', 'description': u'moderate rain', 'humidity': 55, 'temperature': 26.8, 'pressure': 1010}
+{'city': 'New Delhi', 'description': u'haze', 'humidity': 52, 'temperature': 34.09, 'pressure': 999}
 {'city': 'Sao Paulo', 'description': u'clear sky', 'humidity': 78, 'temperature': 15.98, 'pressure': 1028}
-{'city': 'Moscow', 'description': u'overcast clouds', 'humidity': 45, 'temperature': 22.13, 'pressure': 1013}
+{'city': 'Moscow', 'description': u'overcast clouds', 'humidity': 45, 'temperature': 21.44, 'pressure': 1013}
 {'city': 'Beijing', 'description': u'clear sky', 'humidity': 21, 'temperature': 28.94, 'pressure': 1003}
-{'city': 'Sydney', 'description': u'few clouds', 'humidity': 66, 'temperature': 7.06, 'pressure': 1024}
+{'city': 'Sydney', 'description': u'few clouds', 'humidity': 66, 'temperature': 7.05, 'pressure': 1024}
