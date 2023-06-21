@@ -1,10 +1,10 @@
-{'city': 'Seoul', 'temperature': 20.75, 'pressure': 1001, 'humidity': 94, 'description': 'light intensity drizzle'}
-{'city': 'Washington D.C.', 'temperature': 21.33, 'pressure': 1018, 'humidity': 74, 'description': 'clear sky'}
-{'city': 'London', 'temperature': 14.99, 'pressure': 1014, 'humidity': 92, 'description': 'clear sky'}
-{'city': 'Berlin', 'temperature': 19.99, 'pressure': 1000, 'humidity': 95, 'description': 'light rain'}
-{'city': 'Tokyo', 'temperature': 26.62, 'pressure': 1011, 'humidity': 53, 'description': 'broken clouds'}
-{'city': 'Paris', 'temperature': 17.16, 'pressure': 1014, 'humidity': 91, 'description': 'clear sky'}
-{'city': 'New Delhi', 'temperature': 27.09, 'pressure': 1004, 'humidity': 94, 'description': 'mist'}
-{'city': 'Sao Paulo', 'temperature': 15.78, 'pressure': 1025, 'humidity': 82, 'description': 'clear sky'}
-{'city': 'Moscow', 'temperature': 12.06, 'pressure': 1018, 'humidity': 53, 'description': 'clear sky'}
-{'city': 'Beijing', 'temperature': 34.94, 'pressure': 1004, 'humidity': 11, 'description': 'clear sky'}
+{'city': 'Seoul', 'temperature': 21.99, 'pressure': 1001, 'humidity': 94, 'description': 'mist'}
+{'city': 'Washington D.C.', 'temperature': 20.21, 'pressure': 1018, 'humidity': 81, 'description': 'overcast clouds'}
+{'city': 'London', 'temperature': 16.68, 'pressure': 1014, 'humidity': 86, 'description': 'clear sky'}
+{'city': 'Berlin', 'temperature': 21.23, 'pressure': 1011, 'humidity': 93, 'description': 'few clouds'}
+{'city': 'Tokyo', 'temperature': 25.51, 'pressure': 1010, 'humidity': 56, 'description': 'broken clouds'}
+{'city': 'Paris', 'temperature': 19, 'pressure': 1016, 'humidity': 90, 'description': 'clear sky'}
+{'city': 'New Delhi', 'temperature': 30.09, 'pressure': 1004, 'humidity': 74, 'description': 'mist'}
+{'city': 'Sao Paulo', 'temperature': 14.46, 'pressure': 1024, 'humidity': 84, 'description': 'clear sky'}
+{'city': 'Moscow', 'temperature': 15.7, 'pressure': 1018, 'humidity': 46, 'description': 'clear sky'}
+{'city': 'Beijing', 'temperature': 36.94, 'pressure': 1002, 'humidity': 10, 'description': 'clear sky'}
