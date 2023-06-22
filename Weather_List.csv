@@ -6,5 +6,5 @@
 {'city': 'Paris', 'temperature': 19.67, 'pressure': 1015, 'humidity': 78, 'description': 'light rain'}
 {'city': 'New Delhi', 'temperature': 30.09, 'pressure': 1004, 'humidity': 79, 'description': 'mist'}
 {'city': 'Sao Paulo', 'temperature': 17.06, 'pressure': 1022, 'humidity': 72, 'description': 'broken clouds'}
-{'city': 'Moscow', 'temperature': 14.7, 'pressure': 1019, 'humidity': 48, 'description': 'overcast clouds'}
+{'city': 'Moscow', 'temperature': 14.76, 'pressure': 1019, 'humidity': 48, 'description': 'overcast clouds'}
 {'city': 'Beijing', 'temperature': 36.94, 'pressure': 1004, 'humidity': 10, 'description': 'clear sky'}
