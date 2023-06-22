@@ -1,10 +1,10 @@
-{'city': 'Seoul', 'temperature': 25.75, 'pressure': 1004, 'humidity': 63, 'description': 'light rain'}
-{'city': 'Washington D.C.', 'temperature': 15.16, 'pressure': 1017, 'humidity': 92, 'description': 'light intensity drizzle'}
-{'city': 'London', 'temperature': 14.65, 'pressure': 1017, 'humidity': 90, 'description': 'overcast clouds'}
-{'city': 'Berlin', 'temperature': 18.93, 'pressure': 1018, 'humidity': 83, 'description': 'clear sky'}
-{'city': 'Tokyo', 'temperature': 20.95, 'pressure': 1010, 'humidity': 73, 'description': 'light rain'}
-{'city': 'Paris', 'temperature': 19.55, 'pressure': 1015, 'humidity': 78, 'description': 'moderate rain'}
-{'city': 'New Delhi', 'temperature': 31.09, 'pressure': 1004, 'humidity': 74, 'description': 'mist'}
-{'city': 'Sao Paulo', 'temperature': 16.28, 'pressure': 1022, 'humidity': 75, 'description': 'clear sky'}
-{'city': 'Moscow', 'temperature': 15.37, 'pressure': 1019, 'humidity': 48, 'description': 'overcast clouds'}
+{'city': 'Seoul', 'temperature': 25.75, 'pressure': 1004, 'humidity': 63, 'description': 'broken clouds'}
+{'city': 'Washington D.C.', 'temperature': 15.17, 'pressure': 1017, 'humidity': 92, 'description': 'light intensity drizzle'}
+{'city': 'London', 'temperature': 14.5, 'pressure': 1019, 'humidity': 91, 'description': 'overcast clouds'}
+{'city': 'Berlin', 'temperature': 19.27, 'pressure': 1018, 'humidity': 83, 'description': 'clear sky'}
+{'city': 'Tokyo', 'temperature': 21.14, 'pressure': 1009, 'humidity': 73, 'description': 'broken clouds'}
+{'city': 'Paris', 'temperature': 19.55, 'pressure': 1015, 'humidity': 78, 'description': 'heavy intensity rain'}
+{'city': 'New Delhi', 'temperature': 31.09, 'pressure': 1004, 'humidity': 74, 'description': 'haze'}
+{'city': 'Sao Paulo', 'temperature': 16, 'pressure': 1022, 'humidity': 76, 'description': 'clear sky'}
+{'city': 'Moscow', 'temperature': 16.07, 'pressure': 1019, 'humidity': 44, 'description': 'overcast clouds'}
 {'city': 'Beijing', 'temperature': 37.94, 'pressure': 1003, 'humidity': 8, 'description': 'few clouds'}
