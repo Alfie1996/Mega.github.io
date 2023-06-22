@@ -3,7 +3,7 @@
 {'city': 'London', 'temperature': 16.54, 'pressure': 1018, 'humidity': 88, 'description': 'overcast clouds'}
 {'city': 'Berlin', 'temperature': 21.71, 'pressure': 1020, 'humidity': 72, 'description': 'clear sky'}
 {'city': 'Tokyo', 'temperature': 20.73, 'pressure': 1008, 'humidity': 78, 'description': 'broken clouds'}
-{'city': 'Paris', 'temperature': 18.38, 'pressure': 1015, 'humidity': 89, 'description': 'heavy intensity rain'}
+{'city': 'Paris', 'temperature': 18.26, 'pressure': 1015, 'humidity': 89, 'description': 'heavy intensity rain'}
 {'city': 'New Delhi', 'temperature': 31.09, 'pressure': 1004, 'humidity': 70, 'description': 'haze'}
 {'city': 'Sao Paulo', 'temperature': 15.22, 'pressure': 1022, 'humidity': 79, 'description': 'clear sky'}
 {'city': 'Moscow', 'temperature': 19.36, 'pressure': 1018, 'humidity': 40, 'description': 'overcast clouds'}
