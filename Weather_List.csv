@@ -1,10 +1,10 @@
-{'city': 'Seoul', 'temperature': 29.34, 'pressure': 1009, 'humidity': 54, 'description': 'few clouds'}
-{'city': 'Washington D.C.', 'temperature': 18.12, 'pressure': 1013, 'humidity': 93, 'description': 'mist'}
-{'city': 'London', 'temperature': 18.94, 'pressure': 1022, 'humidity': 79, 'description': 'overcast clouds'}
-{'city': 'Berlin', 'temperature': 17.77, 'pressure': 1002, 'humidity': 97, 'description': 'shower rain'}
-{'city': 'Tokyo', 'temperature': 24.8, 'pressure': 1007, 'humidity': 70, 'description': 'broken clouds'}
+{'city': 'Seoul', 'temperature': 29.66, 'pressure': 1008, 'humidity': 39, 'description': 'clear sky'}
+{'city': 'Washington D.C.', 'temperature': 18.14, 'pressure': 1013, 'humidity': 93, 'description': 'mist'}
+{'city': 'London', 'temperature': 19.07, 'pressure': 1022, 'humidity': 78, 'description': 'overcast clouds'}
+{'city': 'Berlin', 'temperature': 17.85, 'pressure': 1002, 'humidity': 97, 'description': 'shower rain'}
+{'city': 'Tokyo', 'temperature': 24.7, 'pressure': 1007, 'humidity': 69, 'description': 'broken clouds'}
 {'city': 'Paris', 'temperature': 18.31, 'pressure': 1025, 'humidity': 81, 'description': 'clear sky'}
 {'city': 'New Delhi', 'temperature': 35.09, 'pressure': 1003, 'humidity': 55, 'description': 'haze'}
-{'city': 'Sao Paulo', 'temperature': 16, 'pressure': 1021, 'humidity': 83, 'description': 'clear sky'}
+{'city': 'Sao Paulo', 'temperature': 16, 'pressure': 1021, 'humidity': 84, 'description': 'scattered clouds'}
 {'city': 'Moscow', 'temperature': 15.92, 'pressure': 1011, 'humidity': 97, 'description': 'light rain'}
 {'city': 'Beijing', 'temperature': 39.94, 'pressure': 1001, 'humidity': 10, 'description': 'clear sky'}
